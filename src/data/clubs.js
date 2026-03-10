@@ -1,0 +1,23 @@
+// All 20 Premier League clubs 2025-26
+export const CLUBS = [
+  { id: 0, name: "Arsenal", short: "ARS", color: "#EF0107", accent: "#063672", cap: 60704, rep: 90, budget: 180, mgr: "Mikel Arteta" },
+  { id: 1, name: "Man City", short: "MCI", color: "#6CABDD", accent: "#1C2C5B", cap: 53400, rep: 95, budget: 250, mgr: "Pep Guardiola" },
+  { id: 2, name: "Liverpool", short: "LIV", color: "#C8102E", accent: "#00B2A9", cap: 61276, rep: 92, budget: 170, mgr: "Arne Slot" },
+  { id: 3, name: "Chelsea", short: "CHE", color: "#034694", accent: "#DBA111", cap: 40834, rep: 85, budget: 200, mgr: "Enzo Maresca" },
+  { id: 4, name: "Man United", short: "MUN", color: "#DA291C", accent: "#FBE122", cap: 74310, rep: 88, budget: 190, mgr: "Ruben Amorim" },
+  { id: 5, name: "Newcastle", short: "NEW", color: "#241F20", accent: "#ccc", cap: 52305, rep: 78, budget: 130, mgr: "Eddie Howe" },
+  { id: 6, name: "Tottenham", short: "TOT", color: "#132257", accent: "#ccc", cap: 62850, rep: 80, budget: 140, mgr: "Ange Postecoglou" },
+  { id: 7, name: "Aston Villa", short: "AVL", color: "#670E36", accent: "#95BFE5", cap: 42788, rep: 72, budget: 100, mgr: "Unai Emery" },
+  { id: 8, name: "Brighton", short: "BHA", color: "#0057B8", accent: "#FFCD00", cap: 31800, rep: 68, budget: 80, mgr: "Fabian Hurzeler" },
+  { id: 9, name: "West Ham", short: "WHU", color: "#7A263A", accent: "#1BB1E7", cap: 62500, rep: 70, budget: 90, mgr: "Nuno Espirito Santo" },
+  { id: 10, name: "Bournemouth", short: "BOU", color: "#DA291C", accent: "#000", cap: 11364, rep: 55, budget: 50, mgr: "Andoni Iraola" },
+  { id: 11, name: "Crystal Palace", short: "CRY", color: "#1B458F", accent: "#C4122E", cap: 25486, rep: 62, budget: 60, mgr: "Oliver Glasner" },
+  { id: 12, name: "Fulham", short: "FUL", color: "#000000", accent: "#CC0000", cap: 25700, rep: 60, budget: 60, mgr: "Marco Silva" },
+  { id: 13, name: "Wolves", short: "WOL", color: "#FDB913", accent: "#231F20", cap: 31750, rep: 62, budget: 60, mgr: "Vitor Pereira" },
+  { id: 14, name: "Brentford", short: "BRE", color: "#E30613", accent: "#FBB800", cap: 17250, rep: 58, budget: 55, mgr: "Thomas Frank" },
+  { id: 15, name: "Everton", short: "EVE", color: "#003399", accent: "#ccc", cap: 52888, rep: 65, budget: 50, mgr: "David Moyes" },
+  { id: 16, name: "Nott'm Forest", short: "NFO", color: "#DD0000", accent: "#ccc", cap: 30445, rep: 55, budget: 50, mgr: "Sean Dyche" },
+  { id: 17, name: "Leeds United", short: "LEE", color: "#FFCD00", accent: "#1D428A", cap: 37890, rep: 65, budget: 55, mgr: "Daniel Farke" },
+  { id: 18, name: "Burnley", short: "BUR", color: "#6C1D45", accent: "#99D6EA", cap: 21944, rep: 50, budget: 40, mgr: "Scott Parker" },
+  { id: 19, name: "Sunderland", short: "SUN", color: "#FF0000", accent: "#000", cap: 49000, rep: 55, budget: 40, mgr: "Regis Le Bris" },
+];
