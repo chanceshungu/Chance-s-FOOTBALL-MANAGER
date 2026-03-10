@@ -1,4 +1,7 @@
-# ⚽ PL Owner Simulator
+# PL Owner Simulator
+
+So I was bored at school and latley I've really into the finicial side of Football(soccer) So I decided to make my own
+you should try it, it's really fun
 
 A Premier League club owner simulation game built with React + Vite.
 
@@ -64,8 +67,3 @@ directories contain cleanly extracted modules ready to be imported. To refactor:
 2. Replace inline match engine with imports from `engine/matchEngine.js`
 3. Extract UI components (Pitch, PlayerRow, LeagueTable, etc.) into `components/`
 4. Move save/load logic into `utils/storage.js`
-
-## License
-
-MIT
-
